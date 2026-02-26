@@ -6,7 +6,7 @@ import path from "path";
 import { fileURLToPath } from "url";
 import dotenv from "dotenv";
 import mime from "mime-types";
-import Redis from "ioredis";
+
 
 dotenv.config();
 
@@ -17,8 +17,8 @@ const s3 = new S3Client({
 	region: "eu-central-2",
 	endpoint: "https://s3.eu-central-2.idrivee2.com",
 	credentials: {
-		accessKeyId: "Inj6vCqWon66Rk9xt5Cf",
-		secretAccessKey: "d2YeLwysLs3It6FrENrluh4l7KpJzeAtNIARwWAA",
+		accessKeyId: "Inj6vCqWon69xt5Cf",
+		secretAccessKey: "d2YeLwysLs3It6FrENrluh4l7KptNIARwWAA",
 	}
 })
 
