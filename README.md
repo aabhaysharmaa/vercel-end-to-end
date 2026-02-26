@@ -25,9 +25,9 @@ A production-grade deployment platform built from scratch. Push code to GitHub o
 | Backend | Node.js, Hono.js |
 | Database | PostgreSQL, Prisma |
 | Cache & Queue | Redis, BullMQ |
-| Storage | AWS S3 | iDrive 
+| Storage | AWS S3 | iDrive
 | Real-time | WebSocket |
-| Auth | Clerk | 
+| Auth | Clerk |
 
 ---
 
@@ -113,5 +113,6 @@ npm run worker
 ## 🤝 Connect
 
 Built by **Abhay Sharma**
+
 - LinkedIn: [linkedin.com/in/abhaysharma](https://linkedin.com/in/abhaysharma)
-- Email: abhaysharma9667200@gmail.com
+- Email: <abhaysharma9667200@gmail.com>
